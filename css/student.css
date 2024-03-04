@@ -1,0 +1,102 @@
+.form {
+  position: relative;
+}
+.form .fa-search {
+  position: absolute;
+  top: 12px;
+  left: 20px;
+  color: #9ca3af;
+}
+.form span {
+  position: absolute;
+  right: 17px;
+  top: 13px;
+  padding: 2px;
+  border-left: 1px solid #d1d5db;
+}
+.left-pan {
+  padding-left: 7px;
+}
+.left-pan i {
+  padding-left: 10px;
+}
+.form-input {
+  height: 40px;
+  text-indent: 33px;
+  border-radius: 10px;
+}
+.form-input:focus {
+  box-shadow: none;
+  border: none;
+}
+
+/* Square button */
+.square-btn {
+  width: 80px;
+  height: 38px;
+  border-radius: 20px !important;
+  color: #000 !important;
+  background-color: white !important;
+  border: 0 !important;
+  font-size: 16px !important;
+  font-weight: 600 !important;
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+}
+.square-btn:hover {
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+@media (min-width: 938px) {
+  .square-btn {
+    width: 88px;
+    height: 37px;
+    font-size: 18px !important;
+  }
+}
+@media (min-width: 1068px) {
+  .square-btn {
+    width: 100px;
+    height: 38px;
+    font-size: 20px !important;
+  }
+}
+@media (min-width: 1268px) {
+  .square-btn {
+    width: 140px;
+    height: 38px;
+    font-size: 24px !important;
+  }
+}
+
+.profile-circle {
+  height: 58px;
+  width: 58px;
+  background: #ffffff;
+  border-radius: 100%;
+}
+.profile-circle-medium {
+  height: 40px;
+  width: 40px;
+  background: #ffffff;
+  border-radius: 100%;
+}
+.small-circle {
+  height: 18px;
+  width: 18px;
+  background: #ffffff;
+  border-radius: 100%;
+}
+.gap-on-small-screen {
+  display: flex;
+  height: 60px;
+  width: 100%;
+}
+@media (min-width: 576px) {
+  .gap-on-small-screen {
+    display: none;
+  }
+}
+
+/* Add the following styles to your existing CSS */

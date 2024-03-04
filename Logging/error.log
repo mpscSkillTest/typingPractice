@@ -1,0 +1,72 @@
+[02-Mar-2024 16:06:18 UTC] text
+[02-Mar-2024 16:06:38 UTC] Single USER REGISTRATION
+[02-Mar-2024 16:06:38 UTC] MY DATA-> Array
+(
+    [name_inp] => Kaustubh Kulkarni
+    [contact_inp] => 8669154509
+    [email_inp] => kaustubhkulkarni035@gmail.com
+    [city_inp] => Pune
+    [gen_inp] => M
+    [selectedSubjects] => Array
+        (
+            [0] => Marathi 30
+        )
+
+    [pass_inp] => Test@123
+    [ai_user] => eGjtigIaKOMnoXboJI9UfM|2023-04-04T04:50:52.447Z
+    [g_state] => {"i_l":0}
+    [PHPSESSID] => 5ec8a732e5b2e8b5b8c98d41f5c32906
+)
+
+[02-Mar-2024 16:07:54 UTC] Single USER REGISTRATION
+[02-Mar-2024 16:07:54 UTC] MY DATA-> Array
+(
+    [name_inp] => Kalpesh
+    [contact_inp] => 8669154500
+    [email_inp] => Kalpesh@gmail.com
+    [city_inp] => Pune
+    [gen_inp] => M
+    [selectedSubjects] => Array
+        (
+            [0] => Marathi 30
+        )
+
+    [pass_inp] => Test@123
+    [ai_user] => eGjtigIaKOMnoXboJI9UfM|2023-04-04T04:50:52.447Z
+    [g_state] => {"i_l":0}
+    [PHPSESSID] => 5ec8a732e5b2e8b5b8c98d41f5c32906
+)
+
+[02-Mar-2024 16:07:54 UTC] PHP Warning:  Array to string conversion in C:\MAMP\htdocs\ui-01\Process\single_user_proc.php on line 29
+[02-Mar-2024 16:07:54 UTC] USER ENTRY-> INSERT INTO `user_master`(`user_name`, `user_gender`, `user_email`, `user_mobile`, `user_city`, `user_course`, `user_role`, `user_pass`) 
+                  VALUES ('Kalpesh','M','Kalpesh@gmail.com','8669154500','Pune','Array','STU','Test@123')
+[02-Mar-2024 16:07:54 UTC] Exception:Field 'google_id' doesn't have a default value
+[02-Mar-2024 16:07:54 UTC] Failed to Execute the enquiry_query Examination Query::: INSERT INTO `user_master`(`user_name`, `user_gender`, `user_email`, `user_mobile`, `user_city`, `user_course`, `user_role`, `user_pass`) 
+                  VALUES ('Kalpesh','M','Kalpesh@gmail.com','8669154500','Pune','Array','STU','Test@123')
+[02-Mar-2024 16:07:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function rollback() in C:\MAMP\htdocs\ui-01\Process\single_user_proc.php:36
+Stack trace:
+#0 {main}
+  thrown in C:\MAMP\htdocs\ui-01\Process\single_user_proc.php on line 36
+[02-Mar-2024 16:08:53 UTC] Single USER REGISTRATION
+[02-Mar-2024 16:08:53 UTC] MY DATA-> Array
+(
+    [name_inp] => Kalpesh
+    [contact_inp] => 8669154500
+    [email_inp] => Kalpesh@gmail.com
+    [city_inp] => Pune
+    [gen_inp] => M
+    [selectedSubjects] => Array
+        (
+            [0] => Marathi 30
+        )
+
+    [pass_inp] => Test@123
+    [ai_user] => eGjtigIaKOMnoXboJI9UfM|2023-04-04T04:50:52.447Z
+    [g_state] => {"i_l":0}
+    [PHPSESSID] => 5ec8a732e5b2e8b5b8c98d41f5c32906
+)
+
+[02-Mar-2024 16:08:53 UTC] PHP Warning:  Array to string conversion in C:\MAMP\htdocs\ui-01\Process\single_user_proc.php on line 29
+[02-Mar-2024 16:08:53 UTC] USER ENTRY-> INSERT INTO `user_master`(`user_name`, `user_gender`, `user_email`, `user_mobile`, `user_city`, `user_course`, `user_role`, `user_pass`) 
+                  VALUES ('Kalpesh','M','Kalpesh@gmail.com','8669154500','Pune','Array','STU','Test@123')
+[02-Mar-2024 16:08:55 UTC] text
