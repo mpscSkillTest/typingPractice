@@ -43,5 +43,35 @@ const getLongestContinuousSequence = (expectedPassage, userInput) => {
     }
   }
 
-  return lcs.join("").split(/\s+/).filter(Boolean);
+  const correctWords = lcs.join("").split(/\s+/).filter(Boolean);
+  console.log({ correctWords });
+  return correctWords;
+};
+
+const getCorrectWordsHighlighted = (wordsCorrectlyTyped, expectedWords) => {
+  let expectedWordsIndex = 0;
+  let typedWordIndex = 0;
+  let correctWords = 0;
+  const spansStartingWithW = document.querySelectorAll('[id^="w"]');
+
+  // Iterate through both arrays
+  while (
+    typedWordIndex < wordsCorrectlyTyped.length &&
+    expectedWordsIndex < expectedWords.length
+  ) {
+    // If the words match, move to the next word in both arrays
+    if (
+      expectedWords[expectedWordsIndex] === wordsCorrectlyTyped[typedWordIndex]
+    ) {
+      const currentElement = spansStartingWithW[expectedWordsIndex];
+      currentElement.style.color = "green";
+      expectedWordsIndex += 1;
+      typedWordIndex += 1;
+      correctWords += 1;
+    } else {
+      // If the words don't match, move to the next word in the expectedWords
+      expectedWordsIndex += 1;
+    }
+  }
+  return correctWords;
 };

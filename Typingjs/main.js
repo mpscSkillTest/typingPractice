@@ -463,30 +463,10 @@ function compareEnglishPassages() {
     accuracySpan.innerText = "0%";
   }
 
-  /**
-   * This will be object map to reduce search complexity
-   * correct typed word will be added as key of object
-   */
-  const wordsCorrectlyTypedSet = new Set();
-  wordsCorrectlyTyped.forEach((correctWord) => {
-    wordsCorrectlyTypedSet.add(correctWord);
-  });
-
-  let currentExpectedPassageIndex = 0;
-  let correctWords = 0;
-
-  // scann through each correct word and expected passage words
-  while (currentExpectedPassageIndex < spansStartingWithW.length) {
-    const currentElement = spansStartingWithW[currentExpectedPassageIndex];
-    const currentWord = currentElement.textContent.trim();
-
-    if (wordsCorrectlyTypedSet.has(currentWord)) {
-      wordsCorrectlyTypedSet.delete(currentWord);
-      correctWords += 1;
-      currentElement.style.color = "green";
-    }
-    currentExpectedPassageIndex += 1;
-  }
+  const correctWords = getCorrectWordsHighlighted(
+    wordsCorrectlyTyped,
+    expectedWords
+  );
 
   // to count error
   const mistakeCount = expectedWords.length - correctWords;
