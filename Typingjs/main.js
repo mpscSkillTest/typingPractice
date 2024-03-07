@@ -1,6 +1,3 @@
-console.log("rheloo0i0 ");
-// var expectedWords;
-
 const sentencesArrayMarathi = [
   "आजच्या आधूनिक युगात शिक्षणाचे महत्त्व भरपूर आहे. असे म्हटले जाते की. “जे युद्ध तलवारीने जिंकले जात नाही ते पेनाच्या श्‍क्तीने जिंकू शकताे“. आणि ही गाेष्ट अतिशय सत्य देखील आहे. कारण पेन पकडता येणे हेच मूळात साक्षरतेचे प्रमाण आहे. साक्षरतेचा अर्थ देशातील अशिक्षित लाेकांना शिक्षित करून वाचन व लेखन करण्यायाेग्य बनवणे हाेय. दुसऱ्‍या शब्दात सांगायचे झाले तर साक्षर असणे म्हणजे वाचन व लेखन करण्याची याेग्यता प्राप्त करणे हाेय. भारतात राष्ट्रीय साक्षरता मिशन अनुसार जर एखादा व्यक्ती आपले नाव लिहिणे व वाचण्या याेग्य असेल तर ताे साक्षर आहे. वर्तमान काळात शिक्षणचे महत्त्व भरपूर आहे. शिक्षण ही जीवनातील एक आवश्‍यक बाब आहे. याशिवाय अशिक्षित लाेकही आपल्याच समाजाच भाग आहेत. आणि त्यांना साक्षर करणे आपले कर्तव्य आहे. कारण जर एखद्या देशाचा प्रत्येक नागरिक साक्षर असेल तरच त्या देशाची प्रगती हाेईल. साक्षरतेचा संबंध देशाच्या सामाजिक व आर्थिक विकासाशी आहे. शिक्षणाशिवाय व्यक्तीचे जीवन पशूप्रमाणे हाेते. भारताला गावांचा देश म्हटले जाते. कारण आपल्या दशातील बहुसंख्य लाेक खेड्या गावात राहतात. या लाेकांमध्ये शेतकरी मजूर इत्यादींची संख्या अधिक आहे आणि सर्वात जास्त अशिक्षित व निरक्षर हेच लाेक आहेत. अश्‍या काळात अशिक्षिततेचा फायदा घेऊन अनेक चतुर व्यापरी, कुटील नेते आणि सरकारी अधिकारी यांचा आपल्या कार्यासाठी लाभ करून घेतात. निरक्षर लाेक शासनाकडून आलेल्या येजना व्यवस्थित समजू शकत नाही व यामुळे त्यांना सरकारी याेजनांचा लाभ मिळत नाही, साक्षर लाेक शासनाच्या याेग्य निर्णयांमध्ये सहयाेग करतात आणि चुकीच्या निर्णयांचा विरांध देखील करतात. साक्षर व्यक्तीला आपलया मताची किंमत माहिती असते. म्हणून ताे याेग्य नेत्यालाच आपले मत देताे. आपला देश कृषिप्रधान देश आहे. जर या देशातील शेतकरी साक्षर असेल तरच ताे शेतीमधून अधिक उत्पन्न प्राप्त करू शकताे. शिकेले शेतकरी वैज्ञानिक पद्धतीने शेती करतात. ते नवनवीन आधुनिक उपकरणांचा उपयाेग करून शेतातून अधिक धान्य उत्पन्न करातात. आणि आपल्या गावाचा व देशाचा विकास करतात. ज्याप्रमाणे पुरुषांसाठी शिक्षणाचे महत्त्व आहे त्याच पद्धतीने स्त्री शिक्षण देखील अत्यावश्‍यक आहे. एक शिक्षित महिला आपली मुले व कुटुंबातील इतर सदस्यांना शिक्षित करते. यासाेबतच नाेकरी व व्यवसाय करून कुटुंबाला आर्थिक सहयाेग पाेहचवते.",
   "मी एक नदी आहे. नदी हा शब्द तुम्हाला तर परिचितच असेल. पण तरीही मी आज तुम्हाला माझा परिचय देणार आहे मी काेण आहे. कुठून आले आहे. माझे अस्तित्व काय आहे. भारतासह मला जगभरात वेगवेगळ्या नावांनी ओळखले जाते. जसे सरिता, जीवनदायिनी रिव्हर इत्यादी. स्वभावत: मी खूप चंचल आहे परंतु कधीकधी शांत देखील हाेऊन जाते. खळखळ करत मी वाहत राहते. सतत न थांबता, न अडकता मी वाहते. माझा जन्म पर्वतांमध्ये झाला हाेता, तेथून झऱ्‍यांच्या मदतीने मी जंगल आणि गावांमधून वाहत वाहत पुढे समुद्राला हाेता, पुढे समुद्राला जाऊन मिळते. माझ्या प्रवाह कधी कमी तर कधी जास्त हाेताे. माझा आकार स्थानानुसार कधी लहान तर कधी माेठा हाेत असताे. माझ्या मार्गात खूप अडचणी येतात, कधी दगड गाेटे तर कधी माेठ माेठ पर्वत पण मी कधीही थांबत नाही. माझा मार्ग मी स्वत: तयार करून वाहत राहते. मनुष्य अनेक प्रकारांनी माझ्याशी जुळलेला आहे. तुम्ही असेही म्हणू शकतात की मी मनुष्यासाठी खूप उपयुक्त आहे. मनुष्याला अनेक पद्धतीने जीवन जगण्यासाठी मी मदत करते. माझ्या पाण्यात अनेक जलचर जीवजंतू राहतात मनुष्य त्यांना पकडून खाताे. अश्‍या पद्धतीने मी मनुष्याची अन्नाची भूक भागवते. माझ्यामुळे भूतलावावरील सर्व घरांमध्ये पाण्याची व्यवस्था हाेते. मनुष्याला दैनंदिन जीवन जगण्यासाठी पणी हे अतिशय उपयुक्त आहे. मी पर्यावरणाचे संतुलन राखण्यात मदत करते. माझ्या पाण्याच्या मदतीने मनुष्य वीन तयार करताे आणि याच विजेच्या मदतीने अनेक उपकरणे कार्य करातात. शेतकरी माझे पाणी शेतात पिकांसाठी वापरताे, ज्यामुळे शेतातील पिके लहरायला लागतात. जंगलातून वाहताना मी जंगली पशु पक्ष्यांची तहान भागवते व यासाेबतच जंगलातील झाडांना पाणी पुरवठा करते. माझ्या बद्दल सांगायचे झाले तर मलाही भावना आहेत, मला देखील आनंद व दु:ख हाेते आणि मनुष्य मला अतिशय लाेभी जाणवताे. आपले स्वार्थ पूर्ण करण्यासाठी ताे काहीही करू शकताे. मनुष्या द्वारे मला देवीच्या रूपात पूजले जाते, लाेक त्यांच्या इच्छा पूर्ण करण्यासाठी मला प्रार्थना करतात, उपवास ठेवतात, फुले चढवतात. आणि मग दुसरी कडे तेच माझ्या पाण्यात कचरा व घाण टाकतात, मला प्रदूषित करतात. आता तुम्हीच सांगा की काेणी देवीला प्रदूषित करत का माझी इच्छा फक्त एवढीच आहे की जर मनुष्य मला देवी मानत असेल तर त्याने मला प्रदूषित कारायला नकाे.",
@@ -16,6 +13,38 @@ const sentencesArrayEnglish = [
 
   "Travelling is an important part of human life. It gives you a break form your busy life and makes you feel renewed for a new start. It takes away all you stress and improves your health and mind. We can explore the serene nature around us and meet new people. This makes us feel livelier. For so long I wanted to take my parents out for a trip. Since last time I planned to visit Goa to take a break and refresh myself. It was such a thrilling trip. I enjoyed all three days spent in Goa. The overall trip was very good. I had so much fun with my family. The sun and the sky were clear. I expected rain but there was no sign of it. I prefer to travel in the summer season. Rains can drench area pretty quickly. It also ruins your plans and spoils the whole trip. I have seen many tourists in Goa. People come from so far to spend some good time here. It is nice to meet new people. I really like Goa for many reasons. I like beaches. It was my dream place as I have heard many things about this place. So, I fulfilled my dream and reached Goa to enjoy my life and get away from the daily hustles. It is no new news that travel is good for your body but there are many researchers which suggest that exploring a new place can do wonders for your mental and emotional health as well. A trip enhances your mood. It gives you a reason to smile. I believe that a person should go on a trip once a month. I am always busy when I travel it is taking photos or just exploring a place on foot. I know I am the calmest and most relaxed when I travel. Also, the lessons you learn along the way make you more aware and open to new things. I Love going to places with different cultures because it forces you to think about your own. When you explore new places, you give yourself a chance of fresh start. It makes you feel calm. When you are going through a tough time in your life it gives you more clarity. I think people in general are not meant to be tied down to just one place their entire lives.",
 ];
+
+const keyMappings = {
+  mQ: "Å",
+  "V+V": "ê",
+  "M+M": "ì",
+  "n+n": "í",
+  "M\\": "³",
+  "Q+": "¶",
+  ";+": "¸",
+  "g+": "º",
+  "V+B": "Î",
+  "B+B": "ð",
+  ">+": "Ö",
+  ºe: "ã",
+  Uu: "é",
+  "n+e": "ù",
+  RR: "Ÿ",
+  "d=": "û",
+  dz: "Ø",
+  Qz: "Ý",
+  Vz: "ý",
+  "<z": "þ",
+  Mz: "ÿ",
+  "G+;": "Ā",
+  "<+;": "ā",
+  "(+;": "Ă",
+  "K+;": "ă",
+  "º;": "Ą",
+  jq: ":",
+  jw: "Ć",
+  "Q=": "ć",
+};
 
 // ALL ELEMENTS TO BE USED
 const result = document.getElementById("result");
@@ -40,6 +69,12 @@ var back_space_count = 0;
 var mistakeCount = 0;
 let lastValue = "";
 
+function getc(lang, speed) {
+  console.log(lang + " , " + speed);
+  type_language = lang;
+  renderNewQuote(lang);
+}
+
 const splitWords = (words) => {
   let resultArray = [];
 
@@ -61,59 +96,7 @@ const splitWords = (words) => {
   return resultArray;
 };
 
-function getc(lang, speed) {
-  console.log(lang + " , " + speed);
-  type_language = lang;
-  renderNewQuote(lang);
-}
-
 var key_stroke_count = 0;
-
-// let startTime;
-// let timerInterval;
-// const totalTimeInSeconds = 600; // 10 minutes
-
-// function startTimer() {
-//   if(test_type === 'speed'){
-//     // Check if the timer is already running
-//     if (!startTime) {
-//       startTime = new Date().getTime();
-//       timerInterval = setInterval(updateTimer, 1000);
-//     }
-//   }else{
-//     // CODE FOR PRACTICE TEST
-//   }
-
-// }
-// function stopTimer() {
-//   if (startTime) {
-//     clearInterval(timerInterval);
-//     startTime = null; // Reset startTime to indicate the timer has stopped
-//   }
-// }
-// function updateTimer() {
-//   const currentTime = new Date().getTime();
-//   const elapsedTimeInSeconds = Math.floor((currentTime - startTime) / 1000);
-//   const remainingTimeInSeconds = totalTimeInSeconds - elapsedTimeInSeconds;
-
-//   if (remainingTimeInSeconds <= 0) {
-//     // Timer reached 0, stop the timer
-//     clearInterval(timerInterval);
-//     document.getElementById("countdown").textContent = "Time: 0:00";
-//     alert("Time's up! Submit your test.");
-//     handle_submit();
-//     // Additional actions when the timer reaches 0
-//     // You can customize this part based on your requirements
-//   } else {
-//     // Format minutes and seconds
-//     const minutes = Math.floor(remainingTimeInSeconds / 60);
-//     const seconds = remainingTimeInSeconds % 60;
-
-//     document.getElementById("countdown").textContent = `${minutes}:${
-//       seconds < 10 ? "0" : ""
-//     }${seconds}`;
-//   }
-// }
 
 let timerInterval = null;
 let totalSeconds = 0; // Use this for count-up
@@ -166,89 +149,139 @@ function formatTime(seconds) {
 // main code FOR ENGLISH start here
 UserInput.addEventListener("input", function (event) {
   startTimer();
-  // console.log((UserInput.value).length);
-  // to count keystorke
+  // we are checking English only on input event
+  // Marathi will be check on keydown event
+  if (type_language === "marathi") {
+    return;
+  }
 
+  // For English language
   if (event.inputType !== "deleteContentBackward") {
     // Increment keystroke count for every input event
     key_stroke_count += 1;
     keyStrokeSpan.textContent = key_stroke_count;
   }
 
-  // For Engkish language
-  if (type_language === "english") {
-    // Get the current user value
-    const currentValue = UserInput.value;
+  // Get the current user value
+  const currentValue = UserInput.value;
 
-    // Check if a space was added or removed
-    if (lastValue && currentValue.length > lastValue.length) {
-      if (currentValue[currentValue.length - 1] === " ") {
-        typedWordCount += 1;
-      }
-    } else if (lastValue && currentValue.length < lastValue.length) {
-      if (lastValue[lastValue.length - 1] === " ") {
-        if (typedWordCount > 0) {
-          typedWordCount -= 1;
-        } else {
-          typedWordCount = 0;
-        }
+  // Check if a space was added or removed
+  if (lastValue && currentValue.length > lastValue.length) {
+    if (currentValue[currentValue.length - 1] === " ") {
+      typedWordCount += 1;
+    }
+  } else if (lastValue && currentValue.length < lastValue.length) {
+    if (lastValue[lastValue.length - 1] === " ") {
+      if (typedWordCount > 0) {
+        typedWordCount -= 1;
+      } else {
+        typedWordCount = 0;
       }
     }
-
-    // to count ramining word
-    remainingWords = total_words - typedWordCount;
-    // console.log("hogj",remainingWords)
-    pendingWordSpan.innerText = remainingWords;
-
-    // Update last value for the next input event
-    lastValue = currentValue;
-
-    // Update the word count display
-    typedWordCountSpan.textContent = typedWordCount;
-
-    // Update the keystroke count display
-    keyStrokeSpan.textContent = key_stroke_count;
-    return;
   }
 
-  //******/ For Marathi Language***************
-  else {
-    // to count ramining word
-    remainingWords = lengthCount - typedWordCount;
-    // console.log("hogj",remainingWords)
-    pendingWordSpan.innerText = remainingWords;
+  // to count ramining word
+  remainingWords = total_words - typedWordCount;
+  // console.log("hogj",remainingWords)
+  pendingWordSpan.innerText = remainingWords;
 
-    const text = UserInput.value;
-    if (event.inputType == "deleteContentBackward") {
-      // To count backspace
-      back_space_count = back_space_count + 1;
-      backspaceSpan.textContent = back_space_count;
-      // key_stroke_count--;
-      key_stroke_count = Math.max(0, key_stroke_count - 2);
-      keyStrokeSpan.textContent = key_stroke_count;
-      console.log(key_stroke_count);
+  // Update last value for the next input event
+  lastValue = currentValue;
 
-      // to work backSpace in marathi input
-      let difference = EnglishTextReal.length - 1;
-      EnglishTextReal = EnglishTextReal.slice(0, difference);
-    } else {
-      EnglishTextReal += text.substring(text.length - 1);
-    }
+  // Update the word count display
+  typedWordCountSpan.textContent = typedWordCount;
 
-    var changed = convertToMarathi(UserInput.value);
-
-    UserInput.value = changed;
-
-    //MAKE USER INPUT INTO ARRAY OF WORDS
-    const userWords = changed.split(" ");
-    console.log(userWords.length, "userWords.length");
-    //   console.log("CONVERTED ARRAT-> " + userWords)
-    let feedback = "";
-  }
+  // Update the keystroke count display
+  keyStrokeSpan.textContent = key_stroke_count;
+  return;
 });
+
+function convertToMarathiUpdated(event) {
+  // Define a shorthand for the long variable name
+  var keyCode = event["keyCode"];
+
+  // If the event does not have the 'key' property, return
+  if (typeof event["key"] === "undefined") return;
+
+  // Count keystrokes for specific keys
+  if (
+    event["key"] !== "Shift" &&
+    event["key"] !== "Control" &&
+    event["key"] !== "Alt" &&
+    event["key"] !== "CapsLock" &&
+    event["key"] !== "Tab" &&
+    keyCode !== 8 &&
+    keyCode !== 46
+  ) {
+    key_stroke_count++;
+  }
+
+  // Decrease keystrokes count for certain keys
+  if (event["key"] === "Tab" || keyCode === 8 || keyCode === 46) {
+    if (key_stroke_count > 0) {
+      key_stroke_count -= 1;
+    }
+    if (UserInput.value.length !== 0 && keyCode === 8) {
+      back_space_count += 1;
+    }
+  }
+
+  const selectionStartIndex = UserInput.selectionStart;
+  const inputValue = UserInput.value;
+
+  let substringStartIndex =
+    inputValue.lastIndexOf(" ", selectionStartIndex - 1) + 1;
+
+  let substringEndIndex = inputValue.indexOf(" ", selectionStartIndex);
+
+  if (substringEndIndex === -1) {
+    substringEndIndex = inputValue.length;
+  }
+
+  const currentWord = inputValue.substring(
+    substringStartIndex,
+    substringEndIndex
+  );
+
+  const inputKey = event.key;
+
+  // Iterate over key mappings
+  for (let key in keyMappings) {
+    if (
+      key === currentWord.slice(-1) + inputKey ||
+      key === currentWord.slice(-2) + inputKey
+    ) {
+      const mappingValue = keyMappings[key];
+
+      const modifiedValue =
+        inputValue.substring(0, start) +
+        currentWord.substring(0, -key.length + 1) +
+        mappingValue +
+        inputValue.substring(end);
+
+      console.log({ modifiedValue });
+
+      UserInput.value = modifiedValue;
+
+      UserInput.selectionStart =
+        substringStartIndex + currentWord.length - key.length + 2;
+
+      UserInput.selectionEnd =
+        substringStartIndex + currentWord.length - key.length + 2;
+
+      event.preventDefault();
+      return;
+    }
+  }
+}
 
 // TO disabale more than one space
 UserInput.addEventListener("keydown", function (event) {
+  if (type_language === "marathi") {
+    convertToMarathiUpdated(event);
+    return;
+  }
+
   if (event.key === " " && UserInput.value.slice(-1) === " ") {
     event.preventDefault();
     // typedWordCount = (UserInput.value.split(" ")).length;
@@ -479,12 +512,11 @@ function compareEnglishPassages() {
   return;
 }
 
-//   -------------------------------------------------------------------------------------
-
 // FUNCTION TO RENDER NEW QUOTE to display
 const renderNewQuote = (type_language) => {
   UserInput.value = ""; //to clear textarea
   if (type_language === "marathi") {
+    UserInput.classList.add("marathiText");
     const randomIndex = Math.floor(
       Math.random() * sentencesArrayMarathi.length
     );
@@ -528,8 +560,7 @@ const renderNewQuote = (type_language) => {
   // result.innerHTML = textToType;
 };
 
-function convertToMarathi(englishText) {
-  // console.log("ebgtext",englishText);
+function convertToMarathi() {
   const remingtonMapping = {
     q: "ु",
     w: "ू",
@@ -656,20 +687,6 @@ function convertToMarathi(englishText) {
     "/": "ध",
   };
 
-  const half_letter_rafar = {
-    F: "र्थ",
-    H: "र्भ",
-    '"': "र्ष ",
-    "'": "र्श ",
-    ".": "र्ण",
-    "?": "र्घ",
-    "/": "र्ध",
-    "{": "र्क्ष",
-    "[": "र्ख ",
-  };
-
-  const half_letter_rafar_keys = Object.keys(half_letter_rafar);
-  // con
   const half_letter_keys = Object.keys(half_letter);
   const a = [];
   let z = 0;
@@ -677,9 +694,6 @@ function convertToMarathi(englishText) {
   const EnglishWords = EnglishTextReal.split(" ");
 
   for (let i = 0; i < EnglishTextReal.length; i++) {
-    console.log("LOOP KRAMANK-> " + i + " -> " + a);
-    console.log("(EnglishTextReal", EnglishTextReal);
-
     // for half letter and full letter rafar and kana with half letter for र्भा , र्भ .
     if (
       EnglishTextReal[i - 1] == "k" &&

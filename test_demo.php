@@ -21,7 +21,6 @@
                     <div class="form-floating ">
                         <textarea autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" class="form-control p-3 " id="UserInput"
                             style="height: 200px; overflow-y: scroll;"></textarea>
-                        <!-- <label for="UserInput" class="">Please Start Typing Here...</label> -->
                     </div>
 
                     <!-- onclick="compareWordsNew(); save_test_data();" -->
@@ -87,9 +86,9 @@
         // const param1 = urlParams.get('param1'); // Get value of param1
         // // const param2 = urlParams.get('param2'); // Get value of param2
 
-        document.getElementById('selected_language').innerText = "english";
+        document.getElementById('selected_language').innerText = "marathi";
         // document.getElementById('selected_speed').innerText = param2;
-        getc("english");
+        getc("marathi");
     });
 
     function save_test_data() {

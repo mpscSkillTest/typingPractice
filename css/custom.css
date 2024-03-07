@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "krutidev-055";
+  src: url("fonts/Kruti_Dev_055_Regular.ttf") format("truetype");
+}
+
+.marathiText {
+  font-family: "krutidev-055";
+  font-size: 22px !important;
+}

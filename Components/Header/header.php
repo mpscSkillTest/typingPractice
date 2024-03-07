@@ -39,7 +39,7 @@
 
   <script src="./js/pie-chart.js"></script>
 
-
+  <link href="./css/custom.css" rel="stylesheet" />
   <link href="./css/style.css" rel="stylesheet" />
   <link href="./css/student.css" rel="stylesheet" />
 </head>
