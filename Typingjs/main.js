@@ -1,6 +1,3 @@
-console.log("rheloo0i0 ");
-// var expectedWords;
-
 const sentencesArrayMarathi = [
   "आजच्या आधूनिक युगात शिक्षणाचे महत्त्व भरपूर आहे. असे म्हटले जाते की. “जे युद्ध तलवारीने जिंकले जात नाही ते पेनाच्या श्‍क्तीने जिंकू शकताे“. आणि ही गाेष्ट अतिशय सत्य देखील आहे. कारण पेन पकडता येणे हेच मूळात साक्षरतेचे प्रमाण आहे. साक्षरतेचा अर्थ देशातील अशिक्षित लाेकांना शिक्षित करून वाचन व लेखन करण्यायाेग्य बनवणे हाेय. दुसऱ्‍या शब्दात सांगायचे झाले तर साक्षर असणे म्हणजे वाचन व लेखन करण्याची याेग्यता प्राप्त करणे हाेय. भारतात राष्ट्रीय साक्षरता मिशन अनुसार जर एखादा व्यक्ती आपले नाव लिहिणे व वाचण्या याेग्य असेल तर ताे साक्षर आहे. वर्तमान काळात शिक्षणचे महत्त्व भरपूर आहे. शिक्षण ही जीवनातील एक आवश्‍यक बाब आहे. याशिवाय अशिक्षित लाेकही आपल्याच समाजाच भाग आहेत. आणि त्यांना साक्षर करणे आपले कर्तव्य आहे. कारण जर एखद्या देशाचा प्रत्येक नागरिक साक्षर असेल तरच त्या देशाची प्रगती हाेईल. साक्षरतेचा संबंध देशाच्या सामाजिक व आर्थिक विकासाशी आहे. शिक्षणाशिवाय व्यक्तीचे जीवन पशूप्रमाणे हाेते. भारताला गावांचा देश म्हटले जाते. कारण आपल्या दशातील बहुसंख्य लाेक खेड्या गावात राहतात. या लाेकांमध्ये शेतकरी मजूर इत्यादींची संख्या अधिक आहे आणि सर्वात जास्त अशिक्षित व निरक्षर हेच लाेक आहेत. अश्‍या काळात अशिक्षिततेचा फायदा घेऊन अनेक चतुर व्यापरी, कुटील नेते आणि सरकारी अधिकारी यांचा आपल्या कार्यासाठी लाभ करून घेतात. निरक्षर लाेक शासनाकडून आलेल्या येजना व्यवस्थित समजू शकत नाही व यामुळे त्यांना सरकारी याेजनांचा लाभ मिळत नाही, साक्षर लाेक शासनाच्या याेग्य निर्णयांमध्ये सहयाेग करतात आणि चुकीच्या निर्णयांचा विरांध देखील करतात. साक्षर व्यक्तीला आपलया मताची किंमत माहिती असते. म्हणून ताे याेग्य नेत्यालाच आपले मत देताे. आपला देश कृषिप्रधान देश आहे. जर या देशातील शेतकरी साक्षर असेल तरच ताे शेतीमधून अधिक उत्पन्न प्राप्त करू शकताे. शिकेले शेतकरी वैज्ञानिक पद्धतीने शेती करतात. ते नवनवीन आधुनिक उपकरणांचा उपयाेग करून शेतातून अधिक धान्य उत्पन्न करातात. आणि आपल्या गावाचा व देशाचा विकास करतात. ज्याप्रमाणे पुरुषांसाठी शिक्षणाचे महत्त्व आहे त्याच पद्धतीने स्त्री शिक्षण देखील अत्यावश्‍यक आहे. एक शिक्षित महिला आपली मुले व कुटुंबातील इतर सदस्यांना शिक्षित करते. यासाेबतच नाेकरी व व्यवसाय करून कुटुंबाला आर्थिक सहयाेग पाेहचवते.",
   "मी एक नदी आहे. नदी हा शब्द तुम्हाला तर परिचितच असेल. पण तरीही मी आज तुम्हाला माझा परिचय देणार आहे मी काेण आहे. कुठून आले आहे. माझे अस्तित्व काय आहे. भारतासह मला जगभरात वेगवेगळ्या नावांनी ओळखले जाते. जसे सरिता, जीवनदायिनी रिव्हर इत्यादी. स्वभावत: मी खूप चंचल आहे परंतु कधीकधी शांत देखील हाेऊन जाते. खळखळ करत मी वाहत राहते. सतत न थांबता, न अडकता मी वाहते. माझा जन्म पर्वतांमध्ये झाला हाेता, तेथून झऱ्‍यांच्या मदतीने मी जंगल आणि गावांमधून वाहत वाहत पुढे समुद्राला हाेता, पुढे समुद्राला जाऊन मिळते. माझ्या प्रवाह कधी कमी तर कधी जास्त हाेताे. माझा आकार स्थानानुसार कधी लहान तर कधी माेठा हाेत असताे. माझ्या मार्गात खूप अडचणी येतात, कधी दगड गाेटे तर कधी माेठ माेठ पर्वत पण मी कधीही थांबत नाही. माझा मार्ग मी स्वत: तयार करून वाहत राहते. मनुष्य अनेक प्रकारांनी माझ्याशी जुळलेला आहे. तुम्ही असेही म्हणू शकतात की मी मनुष्यासाठी खूप उपयुक्त आहे. मनुष्याला अनेक पद्धतीने जीवन जगण्यासाठी मी मदत करते. माझ्या पाण्यात अनेक जलचर जीवजंतू राहतात मनुष्य त्यांना पकडून खाताे. अश्‍या पद्धतीने मी मनुष्याची अन्नाची भूक भागवते. माझ्यामुळे भूतलावावरील सर्व घरांमध्ये पाण्याची व्यवस्था हाेते. मनुष्याला दैनंदिन जीवन जगण्यासाठी पणी हे अतिशय उपयुक्त आहे. मी पर्यावरणाचे संतुलन राखण्यात मदत करते. माझ्या पाण्याच्या मदतीने मनुष्य वीन तयार करताे आणि याच विजेच्या मदतीने अनेक उपकरणे कार्य करातात. शेतकरी माझे पाणी शेतात पिकांसाठी वापरताे, ज्यामुळे शेतातील पिके लहरायला लागतात. जंगलातून वाहताना मी जंगली पशु पक्ष्यांची तहान भागवते व यासाेबतच जंगलातील झाडांना पाणी पुरवठा करते. माझ्या बद्दल सांगायचे झाले तर मलाही भावना आहेत, मला देखील आनंद व दु:ख हाेते आणि मनुष्य मला अतिशय लाेभी जाणवताे. आपले स्वार्थ पूर्ण करण्यासाठी ताे काहीही करू शकताे. मनुष्या द्वारे मला देवीच्या रूपात पूजले जाते, लाेक त्यांच्या इच्छा पूर्ण करण्यासाठी मला प्रार्थना करतात, उपवास ठेवतात, फुले चढवतात. आणि मग दुसरी कडे तेच माझ्या पाण्यात कचरा व घाण टाकतात, मला प्रदूषित करतात. आता तुम्हीच सांगा की काेणी देवीला प्रदूषित करत का माझी इच्छा फक्त एवढीच आहे की जर मनुष्य मला देवी मानत असेल तर त्याने मला प्रदूषित कारायला नकाे.",
@@ -27,98 +24,34 @@ const mistakesSpan = document.getElementById("mistakes");
 const typedWordCountSpan = document.getElementById("typedWordCount");
 const pendingWordSpan = document.getElementById("pendingWordCount");
 const accuracySpan = document.getElementById("accuracyCount");
-var correct_word = 0;
-var accuracyCount = 0;
+let correct_word = 0;
+let accuracyCount = 0;
 let typedWordCount = 0;
-var remainingWords = 0;
-var total_words = 0;
-var secondsRemaining;
-var intervalId;
-var type_language = "";
-var EnglishTextReal = "";
-var back_space_count = 0;
-var mistakeCount = 0;
+let remainingWords = 0;
+let total_words = 0;
+let secondsRemaining;
+let intervalId;
+let type_language = "";
+let EnglishTextReal = "";
+let back_space_count = 0;
+let mistakeCount = 0;
 let lastValue = "";
 
-const splitWords = (words) => {
-  let resultArray = [];
-
-  words.forEach((word) => {
-    if (word.endsWith(".")) {
-      resultArray.push(word.slice(0, -1), ".");
-    } else if (word.endsWith(",")) {
-      resultArray.push(word.slice(0, -1), ",");
-    } else if (word.endsWith(")")) {
-      resultArray.push(word.slice(0, -1), ")");
-    } else if (word.endsWith("-")) {
-      resultArray.push(word.slice(0, -1), "-");
-    } else {
-      var trimmedStr = word.trim();
-      resultArray.push(trimmedStr);
-    }
-  });
-
-  return resultArray;
-};
+// userdefined function started
+let innerLoopIndex = 0;
+let location_string = "";
+let key_stroke_count = 0;
+let timerInterval = null;
+let totalSeconds = 0; // Use this for count-up
+let startTime; // Use this for countdown
+let spaceIndices = [];
+const totalTimeInSeconds = 600; // 10 minutes for countdown
 
 function getc(lang, speed) {
   console.log(lang + " , " + speed);
   type_language = lang;
   renderNewQuote(lang);
 }
-
-var key_stroke_count = 0;
-
-// let startTime;
-// let timerInterval;
-// const totalTimeInSeconds = 600; // 10 minutes
-
-// function startTimer() {
-//   if(test_type === 'speed'){
-//     // Check if the timer is already running
-//     if (!startTime) {
-//       startTime = new Date().getTime();
-//       timerInterval = setInterval(updateTimer, 1000);
-//     }
-//   }else{
-//     // CODE FOR PRACTICE TEST
-//   }
-
-// }
-// function stopTimer() {
-//   if (startTime) {
-//     clearInterval(timerInterval);
-//     startTime = null; // Reset startTime to indicate the timer has stopped
-//   }
-// }
-// function updateTimer() {
-//   const currentTime = new Date().getTime();
-//   const elapsedTimeInSeconds = Math.floor((currentTime - startTime) / 1000);
-//   const remainingTimeInSeconds = totalTimeInSeconds - elapsedTimeInSeconds;
-
-//   if (remainingTimeInSeconds <= 0) {
-//     // Timer reached 0, stop the timer
-//     clearInterval(timerInterval);
-//     document.getElementById("countdown").textContent = "Time: 0:00";
-//     alert("Time's up! Submit your test.");
-//     handle_submit();
-//     // Additional actions when the timer reaches 0
-//     // You can customize this part based on your requirements
-//   } else {
-//     // Format minutes and seconds
-//     const minutes = Math.floor(remainingTimeInSeconds / 60);
-//     const seconds = remainingTimeInSeconds % 60;
-
-//     document.getElementById("countdown").textContent = `${minutes}:${
-//       seconds < 10 ? "0" : ""
-//     }${seconds}`;
-//   }
-// }
-
-let timerInterval = null;
-let totalSeconds = 0; // Use this for count-up
-let startTime; // Use this for countdown
-const totalTimeInSeconds = 600; // 10 minutes for countdown
 
 function startTimer() {
   if (test_type === "speed") {
@@ -206,19 +139,13 @@ UserInput.addEventListener("input", function (event) {
     // Update the word count display
     typedWordCountSpan.textContent = typedWordCount;
 
-    // Update the keystroke count display
-    keyStrokeSpan.textContent = key_stroke_count;
     return;
   }
 
   //******/ For Marathi Language***************
   else {
-    // to count ramining word
-    remainingWords = lengthCount - typedWordCount;
-    // console.log("hogj",remainingWords)
-    pendingWordSpan.innerText = remainingWords;
-
     const text = UserInput.value;
+
     if (event.inputType == "deleteContentBackward") {
       // To count backspace
       back_space_count = back_space_count + 1;
@@ -228,22 +155,46 @@ UserInput.addEventListener("input", function (event) {
       keyStrokeSpan.textContent = key_stroke_count;
       console.log(key_stroke_count);
 
-      // to work backSpace in marathi input
-      let difference = EnglishTextReal.length - 1;
-      EnglishTextReal = EnglishTextReal.slice(0, difference);
+      const lastCharacterIndex = EnglishTextReal.length - 1;
+
+      // While deleting if space is removed
+      if (EnglishTextReal.charAt(lastCharacterIndex) === " ") {
+        spaceIndices.pop();
+      }
+      EnglishTextReal = EnglishTextReal.slice(0, lastCharacterIndex);
     } else {
       EnglishTextReal += text.substring(text.length - 1);
     }
 
-    var changed = convertToMarathi(UserInput.value);
+    const lastIndexOfSpaceInMarathi =
+      spaceIndices[spaceIndices.length - 1] || 0;
 
-    UserInput.value = changed;
+    const previousMarathiValue = text.slice(0, lastIndexOfSpaceInMarathi) || "";
+    const englishWordToBeTranslated = EnglishTextReal.slice(
+      lastIndexOfSpaceInMarathi
+    );
+    const translatedMarathiWord = convertToMarathi(englishWordToBeTranslated);
+    const finalUpdatedValue = `${previousMarathiValue}${translatedMarathiWord}`;
 
-    //MAKE USER INPUT INTO ARRAY OF WORDS
-    const userWords = changed.split(" ");
-    console.log(userWords.length, "userWords.length");
-    //   console.log("CONVERTED ARRAT-> " + userWords)
-    let feedback = "";
+    if (EnglishTextReal.length - 1 > lastIndexOfSpaceInMarathi) {
+      typedWordCount = spaceIndices.length + 1;
+    } else if (spaceIndices.length) {
+      typedWordCount = spaceIndices.length;
+    } else if (finalUpdatedValue.length) {
+      typedWordCount = 1;
+    } else {
+      typedWordCount = 0;
+    }
+
+    UserInput.value = finalUpdatedValue;
+
+    // Update the word count display
+    typedWordCountSpan.textContent = typedWordCount;
+
+    // to count ramining word
+    remainingWords = total_words - typedWordCount;
+    // console.log("hogj",remainingWords)
+    pendingWordSpan.innerText = remainingWords;
   }
 });
 
@@ -251,8 +202,8 @@ UserInput.addEventListener("input", function (event) {
 UserInput.addEventListener("keydown", function (event) {
   if (event.key === " " && UserInput.value.slice(-1) === " ") {
     event.preventDefault();
-    // typedWordCount = (UserInput.value.split(" ")).length;
-    // console.log("tped", typedWordCount);
+  } else if (event.key === " ") {
+    spaceIndices.push(UserInput.value.length);
   }
 
   // Decrement keystroke count for backspace key
@@ -273,173 +224,6 @@ UserInput.addEventListener("keydown", function (event) {
     backspaceSpan.textContent = back_space_count;
   }
 });
-
-// userdefined function started
-var innerLoopIndex = 0;
-var location_string = "";
-
-function compareWordsNew() {
-  // INITIAISE ALL NEEDED FUNCTION
-
-  // to disable input
-  document.getElementById("UserInput").disabled = true;
-  // SEARCH VALUE IN RANGE FUNCTION
-  function value_in_range(arr, val_index) {
-    console.log("SEARCH GREATER THAN-> " + val_index);
-    var i = -1;
-    for (let index = 0; index < arr.length; index++) {
-      const element = arr[index];
-
-      let firstIndex = expectedWords.indexOf(element);
-      if (firstIndex != -1 && firstIndex > val_index) {
-        i = firstIndex;
-        console.log("FOUND AT-> " + firstIndex + " , " + element);
-        break;
-      }
-    }
-
-    return i;
-  }
-  function start_value_in_range(end, word) {
-    console.log("SEARCH LARGEST BETWEEN 0-> " + " AND " + end);
-    // var i = -1;
-    var start_index = expectedWords.slice(0, end).lastIndexOf(word); //Find Index of repeated word in given range
-
-    return start_index;
-  }
-  // INITIALISE ALL VARIABLES
-  var actual_counter = 0;
-  var latest_index = 0; //Latest Index found correct
-  var sting = ""; //String of index of all correct words
-
-  // GET TYPED VALUE AND MAKE A ARRAY OF IT
-  var data = document.getElementById("UserInput").value;
-  var data_array = data.split(" ");
-  // const data_array = splitWords(data_arra);
-  console.log(data_array);
-  // GET EXPECTED WORDS ARRAY AND PROCESS IT
-  // expectedWords = splitWords(expectedWords);
-
-  // INITIATE A OBJECT TO KEEP TRACK OF REPETATING WORDS
-  let found = new Object();
-
-  // ACTUAL CODE STARTS
-  for (let j = 0; j < data_array.length; j++) {
-    var existing = Object.keys(found); //Check if Current Value is already eing found previously
-
-    // IF EXISTS THEN FIND THE ARRAY FROM FOUND INDEX TO LATEST FOUND INDEX
-    if (existing.includes(data_array[j])) {
-      console.log(found);
-      // var val = found[data_array[j]]; //Start Index to search from
-
-      var val = start_value_in_range(latest_index, data_array[j]); //Start Index to search from
-      if (val === -1) {
-        val = found[data_array[j]];
-      }
-      console.log(
-        "FINDING " +
-          data_array[j] +
-          " OF LOC " +
-          j +
-          " PREVIOUS LOCATION " +
-          val
-      );
-      var end_index = value_in_range(data_array, latest_index); //Get End Inddex
-
-      if (end_index === -1) {
-        //If Finds Nothing then set end index as paragraph length
-        end_index = expectedWords.length;
-      }
-
-      var val_no = parseInt(val) + 1;
-      console.log("END INDEX-> " + end_index + " START INDEX-> " + val_no);
-      var repeat_word = expectedWords
-        .slice(val_no, end_index)
-        .indexOf(data_array[j]); //Find Index of repeated word in given range
-
-      for (var z = val_no; z < end_index; z++) {
-        if (expectedWords[z] === data_array[j]) {
-          // console.log("IF " + expectedWords[i] + " === " + data_array[j]);
-          console.log("ADDING TO STING-> " + z);
-          sting += z + " ";
-          // found.expectedWords[i] = i;
-          found[`${expectedWords[z]}`] = `${z}`;
-          // console.log("ACTUAL -> " + actual_counter );
-          break;
-          // actual_counter++;
-        }
-      }
-      actual_counter = latest_index;
-    }
-    // IF DOSENT EXIST IN FOUND OBJECT THEN SEARCH NORMALLY
-    else {
-      console.log(
-        "NORMAL ELSE " + data_array[j] + " ACTUAL COUNTER- " + latest_index
-      );
-      actual_counter = latest_index;
-      for (let i = actual_counter; i < expectedWords.length; i++) {
-        console.log(
-          "INTO I LOOP " + expectedWords[i] + " INTO j LOOP " + data_array[i]
-        );
-        // if(data_array[actual_counter] != undefined){
-        var temm = data_array[j].trim();
-        var semm = expectedWords[i].trim();
-        if (semm === temm) {
-          console.log("IF " + expectedWords[i] + " === " + data_array[j]);
-          sting += i + " ";
-          console.log("ADDING TO STING ROM ELSE " + i);
-          // found.expectedWords[i] = i;
-          // latest_index = i;
-          latest_index++;
-          found[`${expectedWords[i]}`] = `${i}`;
-          // console.log("ACTUAL -> " + actual_counter );
-          break;
-          // actual_counter++;
-        } else {
-          // console.log("NOT FOUND-> " + data_array[j]);
-        }
-      }
-    }
-  }
-  const spansStartingWithW = document.querySelectorAll('[id^="w"]');
-  // // Change the text color to red for all selected spans
-  var redcount = 0;
-  spansStartingWithW.forEach((span) => {
-    span.style.color = "red";
-    // console.log(span);
-    redcount++;
-  });
-  console.log("red", redcount);
-  console.log("STING-> " + sting);
-  const correct_words = sting.split(/\s+/);
-  console.log("CORRECT STRING-> " + correct_words);
-  var greenWordCount = 0;
-  for (let index = 0; index < correct_words.length; index++) {
-    var current_id = correct_words[index];
-    var currentElement = document.getElementById("w" + current_id);
-    if (currentElement) {
-      currentElement.style.color = "green";
-      greenWordCount++;
-    }
-
-    // to count error
-    var mistakeCount = redcount - greenWordCount;
-    // console.log("eroor_c" , mistakeCount)
-    // console.log("greenWordCount++",greenWordCount)
-    mistakesSpan.textContent = mistakeCount;
-  }
-  console.log("greenWordCount", greenWordCount);
-
-  accuracyCount = (greenWordCount * 100) / typedWordCount;
-  accuracyCount = accuracyCount.toFixed(1);
-  accuracySpan.innerText = accuracyCount + "%";
-  // console.log(total_words,"lengthCount")
-
-  // console.log("kmkn", accuracyCount);
-
-  // console.log("geree ", greenWordCount);
-  stopTimer();
-}
 
 function compareEnglishPassages() {
   stopTimer();
@@ -479,8 +263,6 @@ function compareEnglishPassages() {
   return;
 }
 
-//   -------------------------------------------------------------------------------------
-
 // FUNCTION TO RENDER NEW QUOTE to display
 const renderNewQuote = (type_language) => {
   UserInput.value = ""; //to clear textarea
@@ -512,12 +294,10 @@ const renderNewQuote = (type_language) => {
   contentLengthSpan.textContent = lengthCount;
   total_words = lengthCount;
 
-  // const seperator_word = splitWords(seperator_wor);
-
   console.log("psaas", seperator_word);
 
   // Iterate through the words and create <span> elements
-  var span_id = 0;
+  let span_id = 0;
   for (const word of seperator_word) {
     const spanElement = document.createElement("span");
     spanElement.textContent = word + " "; // Add a space after each word
@@ -527,492 +307,3 @@ const renderNewQuote = (type_language) => {
   }
   // result.innerHTML = textToType;
 };
-
-function convertToMarathi(englishText) {
-  // console.log("ebgtext",englishText);
-  const remingtonMapping = {
-    q: "ु",
-    w: "ू",
-    e: "म",
-    r: "त",
-    t: "ज",
-    y: "ल",
-    u: "न",
-    i: "प",
-    o: "व",
-    p: "च",
-    a: "ं",
-    s: "े",
-    d: "क",
-    f: "ि",
-    g: "ह",
-    h: "ी",
-    j: "र",
-    k: "ा",
-    l: "स",
-    z: "्र",
-    x: "ग",
-    c: "ब",
-    v: "अ",
-    b: "इ",
-    n: "द",
-    m: "उ",
-    "~": "द्य",
-    "`": "़",
-    1: "१",
-    2: "२",
-    3: "३",
-    4: "४",
-    5: "५",
-    6: "६",
-    7: "७",
-    8: "८",
-    9: "९",
-    0: "०",
-    "-": "ञ",
-    _: ".",
-    "=": "ृ",
-    "\\": ".",
-    "[": "ख्",
-    "]": ",",
-    ";": "य",
-    "?": "घ्‍",
-    ",": "ए",
-    ".": "ण्",
-    "/": "ध्",
-    Q: "फ",
-    W: "ॅ",
-    E: "म्",
-    R: "त्",
-    T: "ज्",
-    Y: "ल्",
-    U: "न्",
-    I: "प्",
-    O: "व्",
-    P: "च्",
-    A: "ा",
-    S: "ै",
-    D: "क्",
-    F: "थ्",
-    G: "ळ",
-    H: "भ्",
-    J: "श्र",
-    K: "ज्ञ",
-    L: "स्",
-    Z: "र्",
-    X: "ग्",
-    C: "ब्",
-    V: "ट",
-    B: "ठ",
-    N: "छ",
-    M: "ड",
-    "`": "़",
-    "!": "|",
-    "@": "/",
-    "#": ":",
-    $: "ऱ्‍",
-    "%": "-",
-    "^": "“",
-    "&": "‘",
-    "*": "द्ध",
-    "(": "त्र",
-    ")": "ऋ",
-    "+": "्",
-    "|": "\\",
-    "{": "क्ष्",
-    "}": "द्व",
-    ":": "रू",
-    '"': "ष्",
-    "<": "ढ",
-    ">": "झ",
-    "?": "घ्",
-    '"': "ष्",
-    "'": "श्‍",
-  };
-
-  const half_letter = {
-    H: "भ",
-    E: "म",
-    R: "त",
-    T: "ज",
-    Y: "ल",
-    U: "न",
-    I: "प",
-    O: "व",
-    P: "च",
-
-    "[": "ख",
-    "{": "क्ष",
-    D: "क",
-    F: "थ",
-    L: "स",
-    '"': "ष",
-    "'": "श",
-    X: "ग",
-    C: "ब",
-    v: "आ",
-    ".": "ण",
-    "?": "घ",
-    "/": "ध",
-  };
-
-  const half_letter_rafar = {
-    F: "र्थ",
-    H: "र्भ",
-    '"': "र्ष ",
-    "'": "र्श ",
-    ".": "र्ण",
-    "?": "र्घ",
-    "/": "र्ध",
-    "{": "र्क्ष",
-    "[": "र्ख ",
-  };
-
-  const half_letter_rafar_keys = Object.keys(half_letter_rafar);
-  // con
-  const half_letter_keys = Object.keys(half_letter);
-  const a = [];
-  let z = 0;
-
-  const EnglishWords = EnglishTextReal.split(" ");
-
-  for (let i = 0; i < EnglishTextReal.length; i++) {
-    console.log("LOOP KRAMANK-> " + i + " -> " + a);
-    console.log("(EnglishTextReal", EnglishTextReal);
-
-    // for half letter and full letter rafar and kana with half letter for र्भा , र्भ .
-    if (
-      EnglishTextReal[i - 1] == "k" &&
-      EnglishTextReal[i] == "Z" &&
-      EnglishTextReal[i - 2] != " " &&
-      EnglishTextReal[i - 2] != undefined
-    ) {
-      if (half_letter_keys.includes(EnglishTextReal[i - 2])) {
-        console.log("a[i] first ", a[i]);
-        if (EnglishTextReal[i - 3] == "f") {
-          console.log("a[i]", a[i]);
-          pos3 = half_letter_keys.indexOf(EnglishTextReal[i - 2]);
-          a[i - 3] =
-            remingtonMapping[EnglishTextReal[i]] +
-            half_letter[half_letter_keys[pos3]] +
-            remingtonMapping[EnglishTextReal[i - 3]];
-          console.log("for र्भि like letters ", a[i - 3]);
-          i++;
-        } else {
-          const position1 = half_letter_keys.indexOf(EnglishTextReal[i - 2]);
-          a[i - 2] =
-            remingtonMapping[EnglishTextReal[i]] +
-            half_letter[half_letter_keys[position1]];
-          console.log("BOOO " + a[i - 2], "><><><><", a[i - 3]);
-          i++;
-        }
-      } else if (
-        half_letter_keys.includes(EnglishTextReal[i - 3]) &&
-        EnglishTextReal[i - 1] == "k" &&
-        EnglishTextReal[i - 2] == "k"
-      ) {
-        const position2 = half_letter_keys.indexOf(EnglishTextReal[i - 3]);
-        a[i - 3] =
-          remingtonMapping[EnglishTextReal[i]] +
-          half_letter[half_letter_keys[position2]];
-        console.log("o", a[i - 3]);
-        i++;
-      } else if (
-        half_letter_keys.includes(EnglishTextReal[i - 3]) &&
-        EnglishTextReal[i - 1] == "k"
-      ) {
-        // H ; k Z \\ H ; Z
-        a[i - 3] =
-          remingtonMapping[EnglishTextReal[i]] +
-          remingtonMapping[EnglishTextReal[i - 3]];
-        i++;
-      } else {
-        a[i - 2] =
-          remingtonMapping[EnglishTextReal[i]] +
-          remingtonMapping[EnglishTextReal[i - 2]];
-        console.log("in rafar with kana", a[i - 2]);
-        i++;
-      }
-    }
-
-    // for rafar with pahili velanti
-    if (
-      EnglishTextReal[i - 2] == "f" &&
-      EnglishTextReal[i] == "Z" &&
-      EnglishTextReal[i - 1] != " " &&
-      EnglishTextReal[i - 1] != undefined
-    ) {
-      a[i - 2] =
-        remingtonMapping[EnglishTextReal[i]] +
-        remingtonMapping[EnglishTextReal[i - 1]] +
-        remingtonMapping[EnglishTextReal[i - 2]];
-
-      console.log("in rafar with pahili velanti (र्वि)", a[i - 2]);
-      i++;
-    }
-    // "for letters like (प्रि)"
-    if (
-      EnglishTextReal[i - 2] == "f" &&
-      EnglishTextReal[i] == "z" &&
-      EnglishTextReal[i - 1] != " " &&
-      EnglishTextReal[i - 1] != undefined
-    ) {
-      a[i - 2] =
-        remingtonMapping[EnglishTextReal[i - 1]] +
-        remingtonMapping[EnglishTextReal[i]] +
-        remingtonMapping[EnglishTextReal[i - 2]];
-
-      console.log("for letters like (प्रि)", a[i - 2]);
-      i++;
-    }
-
-    //  for rafar with dusri velanti
-    if (
-      EnglishTextReal[i - 1] == "h" &&
-      EnglishTextReal[i] == "Z" &&
-      EnglishTextReal[i - 2] != " " &&
-      EnglishTextReal[i - 2] != undefined
-    ) {
-      // for half letter rafar and velanti
-      if (
-        EnglishTextReal[i - 2] == "k" &&
-        half_letter_keys.includes(EnglishTextReal[i - 3])
-      ) {
-        const pos1 = half_letter_keys.indexOf(EnglishTextReal[i - 3]);
-        a[i - 3] =
-          remingtonMapping[EnglishTextReal[i]] +
-          half_letter[half_letter_keys[pos1]];
-        i++;
-      }
-      // for full letter rafar and velanti
-      else {
-        a[i - 2] =
-          remingtonMapping[EnglishTextReal[i]] +
-          remingtonMapping[EnglishTextReal[i - 2]];
-        console.log("in rafar with  dusri velanti", a[i - 2]);
-        i++;
-      }
-    }
-
-    // for velanti of half lettr velanti
-    if (
-      EnglishTextReal[i] != "" &&
-      EnglishTextReal[i] != "k" &&
-      half_letter_keys.includes(EnglishTextReal[i - 1]) &&
-      EnglishTextReal[i - 2] === "f"
-    ) {
-      var joiner =
-        remingtonMapping[EnglishTextReal[i - 1]] +
-        remingtonMapping[EnglishTextReal[i]] +
-        remingtonMapping[EnglishTextReal[i - 2]];
-      a[i - 2] = joiner;
-      console.log("hurrey NAVIN " + joiner);
-      i++;
-    }
-
-    // for world like "स्थि"
-    if (
-      EnglishTextReal[i] == "k" &&
-      half_letter_keys.includes(EnglishTextReal[i - 2]) &&
-      half_letter_keys.includes(EnglishTextReal[i - 1]) &&
-      EnglishTextReal[i - 3] === "f"
-    ) {
-      const pos2 = half_letter_keys.indexOf(EnglishTextReal[i - 2]);
-      const pos4 = half_letter_keys.indexOf(EnglishTextReal[i - 1]);
-      a[i - 3] =
-        remingtonMapping[EnglishTextReal[i - 2]] +
-        half_letter[half_letter_keys[pos4]] +
-        remingtonMapping[EnglishTextReal[i - 3]];
-      console.log("for two half letter with pahili velanti ", a[i - 3]);
-    }
-
-    // for थ्रि
-    else if (
-      half_letter_keys.includes(EnglishTextReal[i - 2]) &&
-      EnglishTextReal[i - 3] == "f" &&
-      EnglishTextReal[i - 1] == "k" &&
-      EnglishTextReal[i] == "z"
-    ) {
-      const pos5 = half_letter_keys.indexOf(EnglishTextReal[i - 2]);
-      a[i - 3] =
-        half_letter[half_letter_keys[pos5]] +
-        remingtonMapping[EnglishTextReal[i]] +
-        remingtonMapping[EnglishTextReal[i - 3]];
-      console.log("for थ्रि ", a[i - 3]);
-    }
-
-    // for words like र्हे and र्धे
-    else if (
-      EnglishTextReal[i] == "Z" &&
-      EnglishTextReal[i - 1] == "s" &&
-      EnglishTextReal[i - 2] != " " &&
-      EnglishTextReal[i - 2] != undefined
-    ) {
-      // for words like र्धे (half letter vale )
-      if (
-        half_letter_keys.includes(EnglishTextReal[i - 3]) &&
-        EnglishTextReal[i - 2] == "k"
-      ) {
-        const pos6 = half_letter_keys.indexOf(EnglishTextReal[i - 3]);
-        a[i - 3] =
-          remingtonMapping[EnglishTextReal[i]] +
-          half_letter[half_letter_keys[pos6]];
-        console.log(" for words like र्धे", a[i - 3]);
-      }
-      // for words like र्हे
-      else {
-        a[i - 2] =
-          remingtonMapping[EnglishTextReal[i]] +
-          remingtonMapping[EnglishTextReal[i - 2]];
-        console.log("for words like र्हे ", a[i - 2]);
-      }
-    }
-
-    // else if (
-    //   EnglishTextReal[i] == "Z" &&
-    //   EnglishTextReal[i - 1] == "s" &&
-    //   half_letter_keys.includes(EnglishTextReal[i - 3]) &&
-    //   EnglishTextReal[i - 2] == "k"
-    // ) {
-
-    // }
-
-    // FOR PAHILE VELANTI
-    else if (
-      EnglishTextReal[i] === "k" &&
-      half_letter_keys.includes(EnglishTextReal[i - 1]) &&
-      EnglishTextReal[i - 2] === "f"
-    ) {
-      const position = half_letter_keys.indexOf(EnglishTextReal[i - 1]);
-      var temp =
-        half_letter[half_letter_keys[position]] +
-        remingtonMapping[EnglishTextReal[i - 2]];
-      a[i - 2] = temp;
-      console.log("hurrey" + temp);
-      // i++
-    } else if (
-      EnglishTextReal[i] == "f" &&
-      EnglishTextReal[i + 1] != " " &&
-      remingtonMapping[EnglishTextReal[i + 1]] != undefined
-    ) {
-      a[i] =
-        remingtonMapping[EnglishTextReal[i + 1]] +
-        remingtonMapping[EnglishTextReal[i]];
-      i++;
-      console.log("PRIMARY IF");
-    }
-    //FOR half letter and kana and AA
-    else if (
-      half_letter_keys.includes(EnglishTextReal[i]) &&
-      (EnglishTextReal[i + 1] == "k" || EnglishTextReal[i + 1] == "A")
-    ) {
-      console.log("in 2nd if");
-      const position = half_letter_keys.indexOf(EnglishTextReal[i]);
-      a[i] = "";
-      a[i] = half_letter[half_letter_keys[position]];
-      console.log("SECONDARY IF  for AA ", a[i]);
-      i++;
-    }
-    // for "ओ"
-    else if (
-      EnglishTextReal[i - 2] == "v" &&
-      EnglishTextReal[i - 1] == "k" &&
-      EnglishTextReal[i] == "s"
-    ) {
-      a[i - 2] = "ओ";
-      console.log("in ओ");
-    }
-
-    // for "औ"
-    else if (
-      EnglishTextReal[i - 2] == "v" &&
-      EnglishTextReal[i - 1] == "k" &&
-      EnglishTextReal[i] == "S"
-    ) {
-      a[i - 2] = "औ";
-      console.log("in औ");
-    }
-
-    // for ॲ
-    else if (EnglishTextReal[i - 1] == "v" && EnglishTextReal[i] == "W") {
-      a[i - 1] = "ॲ";
-    }
-
-    // for ऑ
-    else if (
-      EnglishTextReal[i - 2] == "v" &&
-      EnglishTextReal[i - 1] == "k" &&
-      EnglishTextReal[i] == "W"
-    ) {
-      a[i - 2] = "ऑ";
-    }
-
-    // for ऐ
-    else if (EnglishTextReal[i - 1] == "," && EnglishTextReal[i] == "s") {
-      a[i - 1] = "ऐ";
-    }
-
-    // for ऊ
-    else if (EnglishTextReal[i] == "m" && EnglishTextReal[i + 1] == "Q") {
-      // initialize only for ऊ
-      console.log("in ऊ");
-      a[i] = "ऊ";
-      i++;
-    }
-    //   for rafar of jodshabda and purna shbda rafar
-    else if (
-      EnglishTextReal[i] == "Z" &&
-      EnglishTextReal[i - 1] != " " &&
-      remingtonMapping[EnglishTextReal[i - 1]] != undefined
-    ) {
-      // for jodshabda
-      if (half_letter_keys.includes(EnglishTextReal[i - 2])) {
-        console.log("in jeeee ", EnglishTextReal[i - 2]);
-        console.log(
-          "for if wala rafar ",
-          EnglishTextReal[i],
-          EnglishTextReal[i - 1],
-          EnglishTextReal[i - 2]
-        );
-        console.log(
-          remingtonMapping[EnglishTextReal[i]],
-          remingtonMapping[EnglishTextReal[i - 1]],
-          remingtonMapping[EnglishTextReal[i - 2]]
-        );
-        a[i - 2] =
-          remingtonMapping[EnglishTextReal[i]] +
-          remingtonMapping[EnglishTextReal[i - 2]];
-      } else {
-        // for sadha rafar
-        console.log("in else");
-        a[i - 1] =
-          remingtonMapping[EnglishTextReal[i]] +
-          remingtonMapping[EnglishTextReal[i - 1]];
-        console.log(EnglishTextReal[i], EnglishTextReal[i - 1]);
-      }
-      console.log("in rafar");
-    } else if (
-      // in big rafar
-      EnglishTextReal[i] == "Z" &&
-      EnglishTextReal[i - 1] == "k" &&
-      remingtonMapping[EnglishTextReal[i - 1]] != undefined
-    ) {
-      a[i] =
-        remingtonMapping[EnglishTextReal[i]] +
-        remingtonMapping[EnglishTextReal[i - 1]];
-    }
-
-    // for big "E"
-    else if (EnglishTextReal[i] == "b" && EnglishTextReal[i + 1] == "Z") {
-      a[i] = "ई";
-      console.log("in ई ");
-      i++;
-    }
-    //FOR NORMAL
-    else {
-      console.log("in sadha loop");
-      a[i] = remingtonMapping[EnglishTextReal[i]] || EnglishTextReal[i];
-    }
-  }
-  return a.join("");
-}
