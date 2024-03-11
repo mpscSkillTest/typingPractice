@@ -1,0 +1,11 @@
+[18-Feb-2024 18:17:39 UTC] WORKING
+[18-Feb-2024 18:17:39 UTC] kaustubh , Kdk123
+[18-Feb-2024 18:17:39 UTC] USER-> SELECT * FROM `user` WHERE `username` = 'kaustubh';
+[18-Feb-2024 18:17:43 UTC] WORKING
+[18-Feb-2024 18:17:43 UTC] kaustubh , kdk123
+[18-Feb-2024 18:17:43 UTC] USER-> SELECT * FROM `user` WHERE `username` = 'kaustubh';
+[18-Feb-2024 18:17:43 UTC] MATCH FOUND
+[21-Feb-2024 03:48:17 UTC] WORKING
+[21-Feb-2024 03:48:17 UTC] kaustubh , kdk123
+[21-Feb-2024 03:48:17 UTC] USER-> SELECT * FROM `user` WHERE `username` = 'kaustubh';
+[21-Feb-2024 03:48:17 UTC] MATCH FOUND
