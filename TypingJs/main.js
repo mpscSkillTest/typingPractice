@@ -13,7 +13,7 @@ const sentencesArrayMarathi = [
   "वाढत्या लाेकसंख्येचा सरळ परिणाम देशातील लाेकांच्या जीवनावर पडताे. स्वातंत्र्या नंतर आपल्या देशात कृषी व उद्याेग क्षेत्रात अभूतपूर्व प्रगती झाली. परंतु या आर्थिक प्रगती नंतरही देशातील प्रतिव्यक्ती उत्पन्न वाढले नाही. वाढत्या लाेकसंख्येने देशाच्या प्रगतीला राेखले आहे. जर एखाद्या देशाची लाेकसंख्या माेठ्या प्रमाणात वाढत असेल तर त्या देशात असलेल्या पायाभूत सुविधा आणि संसाधनांवर दबाव पडताे. वीज, पेट्राेल, डिझेल, परिवहन, अन्न, पाणी, घरे इत्यादी गाेष्टींची मागणी वाढल्यावर त्या गाेष्टींचा तुटवडा निर्माण व्हायला लागताे. परिणामी महागाई वाढून देश गरिबीच्या कुचक्रात अडकताे. ही तर अतिशय सामान्य गाेष्ट आहे की जेव्हा कमवणारे कमी आणि खाणारे जास्त राहतील तेव्हा शारीरिक गरजेनुसार अन्न वस्त्र इत्यादी मिळणार नाही. भारतातील आज अनेक गावांमध्ये ही समस्या निर्माण झाली आहे, ज्यामुळे मूलभूत सुविधंपासून वंचित राहिल्याने लाेकांच्या राहणीमानात घट येते. लाेकसंख्या वाढीच्या कारणांमध्ये सांगितल्याप्रमाणे देशातील गरीब आई वडील आर्थिक सहाय्य मिळावे म्हणून जास्त मुले जन्माला घालतात. परंतु मुलांना शिक्षित करण्याएवढी चांगली परिस्थिती नसल्याने ही मुले शिक्षण साेडून लहानपणापासून मजुरी करतात. व या चक्रात अडकून त्यांच्या येणाऱ्‍या पिढ्याही गरीबच जन्मतात. ज्या देशातील लाेक फक्त आपल्या पाेटाच्या भरण पाेषणात लागलेले राहतील, त्या देशाची विज्ञान आणि उद्याेग क्षेत्रातील प्रगती हाेणे शक्य नाही. अश्‍या देशात विकासाची कल्पना करणेही कठीण आहे. आज दक्षिण आफ्रिकेतील अनेक द्वीप समूहांवर ही परिस्थिती उभी आहे. आज ज्या पद्धतीने देशातील लाेकसंख्येत वृद्धी हाेत आहे, जर हे चक्र असेच सुरू राहिले तर येत्या काही वर्षातच आपल्यासमाेर बेराेजगार, भुकेलेले, निराश लाेकांची एक फाैजच उभी राहील. आणि ही फाैज देशाची सामाजिक, आर्थिक व राजकीय प्रणालीला मुळांपासून हलवून देईल. म्हणून आज आवश्‍यकता आहे की शासनाने देशच्या वाढत्या लाेकसंख्या समस्येकडे लक्ष देऊन वेळीच उपाय याेजना करायला हव्यात. वाढत्या लाेकसंख्येमागील आणखी एक कारण देशातील गरिबी हाेय. अनेक गरीब आई वडील फक्त एवढ्यासाठी मुले जन्माला घालतात कारण त्यांना आर्थिक मदत हवी असते. या मुलांरना कमी वयात बाल मजुरी व इतर श्रमाच्या काकमांवर लावून दिले जाते. देशातील काही धार्मिक रूढीवादी लाेक कुटुंबनियाेजनाचे नियक अवलंबण्यास विराेध करतात. ज्यामूळे त्यांची लाेकसंख्या वाढते.",
   "एका सभ्य आणि सुशिक्षित समाजाचे निर्माण त्या देशातील शिक्षित नागरिकांमुळे हाेते. असे मानले जाते की एका पुरुषाला शिक्षित केल्याने एकच व्यक्ती शिक्षित हाेताे आणि एका स्त्री ला शिक्षित केल्याने संपूर्ण कुटुंब शिक्षित हाेते. स्त्री कुटुंबाचा केंद्रबिंदू असते. ती आईच्या रूपात आपल्या मुलांना संस्कार देते. देशातच्या सामाजिक आणि आर्थिक प्रगतीसाठी पुरुषांसाेबत स्त्रियांनाही शिक्षित करणे महत्वाचे आहे. भारतात आज विशेष करून शहरी भागात स्त्रिया पुरुषांच्या बराेबरीने काम करीत आहेत. आज प्रत्येक क्षेत्रात स्त्रिया कार्यरत आहेत. परंतु आजही जर आपण भारताची तुलना इरत विकसित देशांशी केली तर आपल्या लक्षात येईल की महिलांना शिक्षित करण्यात आपण किती मागे आहाेत. शिक्षण आयुष्यात खूप महत्त्वाचे आहे. शिक्षणाने बुध्दीचा विकास हाेताे आणि साेबतच ज्ञान देखील वाढते. खरे पाहता शिक्षण हेच मुर्खाला विद्वान बनवते. मागील काही दशकात देशात जी काही महिलांची स्थती सुधारली आहे ती फक्त आणि फक्त स्त्री शिक्षणामुळे शक्य झाली आहे. भारताला विकसनशील देश बनवण्यासाठी हे अत्यंत आवश्‍यक आहे. मागील काही वर्षाआधी महिलांच्या तुलनेत पुरुषांच्या साक्षरतेची संख्या अधिक हाेती. भारताच्या स्वातंत्र्यानंतर जेव्हा देशप्रजासत्ताक राष्ट्र बनले तेव्हा पासून शासनाने महिला शिक्षणाकडे विशेष लक्ष द्यायला सुरुवात केली. जरी आज प्रत्येक गावागवात शिक्षण पाेहचले आहे, तरी ही देशातील काही ठिकाण असेही आहते जेथे स्त्रियांना शिकवणे व्यर्थ मानले जाते. त्यांना फक्त चूल आणि मुल सांभाळण्याचे प्रशिक्षण दिले जात अशिक्षित महिलेपेक्षा एक शिक्षित महिला जास्त सक्रिय पद्धतीने कुटुंबाला सांभाळते. शिक्षित महिला तिच्या कुटुंबातील प्रत्येक सदस्याला जबादार बनवते. ती तिच्या मुलांमध्ये चांगल्या गुणांचा संचार करते. अशा पद्धतीने एक शिक्षित महिला संपूर्ण कुटुंब आणि समाजाला शिक्षित करते. म्हणून स्त्री शिक्षणाकडे अधिकाधिक लक्ष द्यायला हवे. स्त्री शिक्षणाचे अनेक फायदे आहेत. शिक्षण प्राप्त करून स्त्री मध्ये आत्मविश्‍वास आणि आत्मसन्मान निर्माण हाेताे. याशिवाय महिलांना शिक्षित केल्यावर कुटुंबाला त्यांचे फायदे हाेतात. शिक्षित महिला नाेकरी करून आपल्या कुटुंबाला आर्थिक मदत करू शकते. शिकलेले स्त्री आपल्या मुलांना कधीही अशिक्षित राहू देणार नाही. लहानपणापासूनच ती आपल्या बाळामध्ये सदगुणांचा संचार करील. आज भारत हा स्त्री शिक्षणात नित्य प्रगती करीत आहे.",
   "भारताला कृषी प्रधान देश म्हटले जाते. भारतीय अर्थव्यवस्थेचा कणा शेती हाच आहे. शेतात काम करणाऱ्‍या व्यक्तीला शेतकरी म्हटले जाते. शेतकरी हा संपूर्ण दिवस शेतात काम करताे, ऊन, वारा, पाऊस इत्यादींची पर्वा न करता आपले कार्य करीत असताे. शेतकरी कठीण परिश्रमाचे प्रतीक आहे. त्याच्यात फार संयम असताे. वर्षभर शेतात काम करून ताे आपल्या कष्टाच्या फळाची वाट पाहत बसताे. शेतकरी आपले जीवन सन्मानाने जगताे. आपले संपूर्ण आयुष्य निसर्गाच्या सानिध्यात घालवताे. शेतकऱ्‍याचे जीवन संतुलिक असते. ताे दरराेज सकाळी लवकर उठताे. दिसभरात त्याला अनेक कामे करायची असतात. सकाळी लवकर उठून तयारी वैगरे करून ताे शेताकउे निघताे. ताे आपला संपूर्ण दिवस शेतातील पिकांची काळजी मध्ये घालवताे. शेत नांगरणे, पीक पेरणे, पिकाला पणी देणे, ऊन वाऱ्‍यापासून आपल्या पिकाचे रक्षण करणे इत्यादी अनेक कामे शेतकऱ्‍याला करावी लागतात. शेतकरी त्याचे पीक अनेक नैसर्गिक आपल्या पासून संरक्षित करताे. पशु, पक्षी, किउे, मुंग्या इत्यादींपासून ताे आपल्या पिकाचे रक्षण करताे. शेतात सुंदर बहरलेल्या पिकामागे शेतकऱ्‍याची शेताविषयीची भक्ती, प्रेम आणि कठीण परिश्रम असते. एक शेतकरी संपूर्ण जगातील मानवाला अन्न पुरविण्यासाठी आपलया जीवन व्यतीत करताे. दिवसभर शेतात काम केल्यावर संध्याकाळी सूर्य मावळल्यांनतर शेतकरी आपल्या घरी पाेहाेचताे. ज्यावेळी ताे घरी पाेचताे तेव्हा ताे अत्यंत थकलेला असताे पण तरीही त्याच्या चेहऱ्‍यावर आनंद दिसत असताे. हा आनंदच त्याच्या कष्टाचे फळ असते. काेणत्याही देशाच्या यशासाठी शेतकऱ्‍यांचे याेगदान फार महत्त्वाचे आह. शेतकरी आपलया प्रयत्नांनी देशाची अर्थव्यवस्था मजबूक करू शकताे. आणि म्हणूनच शेती व शेतकऱ्‍याला अर्थव्यवस्थेचा कणा म्हटले जाते. देशातील शासनाची ही जबाबदारी आहे की त्यांनी शेतकऱ्‍याची याेग्य साेय करायला हवी, जेणेकरून ते काेणत्याही अडथळ्याशिवाय आपले कार्य करू शकतील. शेतकऱ्‍यांना आधुनिक तंत्रज्ञान उपयाेगात आणण्यासाठी शासनाने प्राेत्साहित करायला हवे. आधुनकि पद्धतीने केलेली शेती त्यांना कमी कष्टात जास्तीतचे उत्पन्न मिळवून देऊ शकते. शेतकऱ्‍याचे जीवन आपल्याला अनेक शिकवण देऊन जाते. त्यांचे कठीण परिश्रम आणि संयम आपण सर्वांसाठी एक उदाहरण आहे. आणि म्हणूनच आपण सर्वांची जबाबदारी आहे की आपण शेतकऱ्‍यांना शक्य हाेईल तशी मदत करायला हवी. जर काही कारणास्तव शेतकऱ्‍याचे पीक नष्ट झाले असेल तर त्याला आर्थिक सहाय्य करायला हवे.",
-  "मित्रांनाे आजच्या या लेखात आपण खेळांचे महत्व पाहणार आहाेत. जगात काेणताही व्यक्ति असाे त्याने कधी न कधी काेणता न काेणता खेळलेलाच असाते. खेळाचे अनेक फायदे आहेत आणि या लेखाद्वारे मी तुम्हाला तेच फायदे सांगणार आहे. मनुष्याला राेगांपासून दूर राहण्यासाठी निराेगी शरीर असणे आवश्‍यक आहे. एका निराेगी शरीरातून निराेगी मन व बुध्दीचा विकास हाेताे. शरीराला स्वस्थ ठेवण्यासाठी खेळांचे भरपूर महत्त्व आहे. खेळांमुळे शरीर व मन दाेघेही निराेगी राहतात. खेळ खेळल्याने मनुष्यात धैर्य, सहनशीलता आणि मानवी गुणांचा विकास हाेताे. खेळ आजच्या व्यस्त जीवनात महत्त्वाची भूमिका बजावते. खास करून विद्यार्थ्यांच्या जीवनात खेळांचे महत्त्व भरपूर आहे. म्हणून प्रत्येक विद्यार्थ्याला दिवसातून थाेडा वेळ काढून खेळायला हवे. खेळ खेळल्याने तंदुरुस्ती साेबत मनाेरंजनही हाेते. काेणताही खेळ खेळल्याने व्यक्तीचा शारीरिक विकासासाेबत मानसिक विकासही हाेताे. खेळताना डाेळे, मेंदू व शरीराच्या प्रत्येक अवयवाचा वापर करावा लागताे. खेळांमुळे शरीराचे संतुलनही वाढते. नियमि काेणतातरी खेळ खेळल्याने चित्त प्रसन्न राहते. शरीरिक अवयवांचा व्यवस्थित विकास हाेताे. मनाल उल्हास आणि उत्साह वाढून आयुष्यातील प्रत्येक क्षेत्रात यशे मिळते. खेळांचे देखील वेगवेगळे प्रकार असतात काही खेळ शारीरिक तर काही मानसिक असतात. शारीरिक खेळ खेळण्यासाठी शरीराल श्रम करावे लागते, तर मानसिक खेळांमध्ये मेंदूचे कार्य असते. फुटबाॅल, हाॅकी, व्हाॅलीबाॅल, कि्रकेट, टेनिस, कबड्डी इत्यादी शारीरिक खेळ आहेत. या खेळांना खेळण्यासठी मानसिक शारीरिक ताकत लागते. दुसरीकडे बुद्धीबळ, पत्ते, चाैपट इत्यादी मानसिक खेळ आहेत, ज्यांना खेळण्यासाठी मानसिक शक्तीचा वापर करावा लागताे. या शिवाय इनडाेर आणि आऊटडाेर खेळांचे प्रकार आहेत. आजकाल इनडाेर खेळांमध्ये काॅम्प्यूटर व माेबाईल गेम्स माेठ्या प्रमाणत खेळले जात आहेत. परंतु हे खेळ तुमचे स्वस्थ सुधारणा ऐवजी बिघडवित आहेत. बाहेर खेळाला जाणार खेळ काेणताही असाे ताे आपल्या शरीराला स्वस्थ आणि मनाला प्रसन्न करताे. खेळ मनुष्याचा व्यक्तिमत्त्व विकास करतात. ते एकमेकांमध्ये सहकार्य व बंधूता वाढवतात. खेळांमुळे परंपरा सन्मान आणि प्रेम देखील वाढते. अश्‍या पद्धतीने खेळ आपलयाला गुणवान, चारित्र्यवान आणि एक खरा व्यक्ती बनवतात."
+  "मित्रांनाे आजच्या या लेखात आपण खेळांचे महत्व पाहणार आहाेत. जगात काेणताही व्यक्ति असाे त्याने कधी न कधी काेणता न काेणता खेळलेलाच असाते. खेळाचे अनेक फायदे आहेत आणि या लेखाद्वारे मी तुम्हाला तेच फायदे सांगणार आहे. मनुष्याला राेगांपासून दूर राहण्यासाठी निराेगी शरीर असणे आवश्‍यक आहे. एका निराेगी शरीरातून निराेगी मन व बुध्दीचा विकास हाेताे. शरीराला स्वस्थ ठेवण्यासाठी खेळांचे भरपूर महत्त्व आहे. खेळांमुळे शरीर व मन दाेघेही निराेगी राहतात. खेळ खेळल्याने मनुष्यात धैर्य, सहनशीलता आणि मानवी गुणांचा विकास हाेताे. खेळ आजच्या व्यस्त जीवनात महत्त्वाची भूमिका बजावते. खास करून विद्यार्थ्यांच्या जीवनात खेळांचे महत्त्व भरपूर आहे. म्हणून प्रत्येक विद्यार्थ्याला दिवसातून थाेडा वेळ काढून खेळायला हवे. खेळ खेळल्याने तंदुरुस्ती साेबत मनाेरंजनही हाेते. काेणताही खेळ खेळल्याने व्यक्तीचा शारीरिक विकासासाेबत मानसिक विकासही हाेताे. खेळताना डाेळे, मेंदू व शरीराच्या प्रत्येक अवयवाचा वापर करावा लागताे. खेळांमुळे शरीराचे संतुलनही वाढते. नियमि काेणतातरी खेळ खेळल्याने चित्त प्रसन्न राहते. शरीरिक अवयवांचा व्यवस्थित विकास हाेताे. मनाल उल्हास आणि उत्साह वाढून आयुष्यातील प्रत्येक क्षेत्रात यशे मिळते. खेळांचे देखील वेगवेगळे प्रकार असतात काही खेळ शारीरिक तर काही मानसिक असतात. शारीरिक खेळ खेळण्यासाठी शरीराल श्रम करावे लागते, तर मानसिक खेळांमध्ये मेंदूचे कार्य असते. फुटबाॅल, हाॅकी, व्हाॅलीबाॅल, कि्रकेट, टेनिस, कबड्डी इत्यादी शारीरिक खेळ आहेत. या खेळांना खेळण्यासठी मानसिक शारीरिक ताकत लागते. दुसरीकडे बुद्धीबळ, पत्ते, चाैपट इत्यादी मानसिक खेळ आहेत, ज्यांना खेळण्यासाठी मानसिक शक्तीचा वापर करावा लागताे. या शिवाय इनडाेर आणि आऊटडाेर खेळांचे प्रकार आहेत. आजकाल इनडाेर खेळांमध्ये काॅम्प्यूटर व माेबाईल गेम्स माेठ्या प्रमाणत खेळले जात आहेत. परंतु हे खेळ तुमचे स्वस्थ सुधारणा ऐवजी बिघडवित आहेत. बाहेर खेळाला जाणार खेळ काेणताही असाे ताे आपल्या शरीराला स्वस्थ आणि मनाला प्रसन्न करताे. खेळ मनुष्याचा व्यक्तिमत्त्व विकास करतात. ते एकमेकांमध्ये सहकार्य व बंधूता वाढवतात. खेळांमुळे परंपरा सन्मान आणि प्रेम देखील वाढते. अश्‍या पद्धतीने खेळ आपलयाला गुणवान, चारित्र्यवान आणि एक खरा व्यक्ती बनवतात.",
 ];
 
 const sentencesArrayEnglish = [
@@ -59,9 +59,23 @@ let startTime; // Use this for countdown
 let spaceIndices = [];
 const totalTimeInSeconds = 600; // 10 minutes for countdown
 
+const SKIP_CHECK_KEYDOWN = {
+  Shift: true,
+  Alt: true,
+  CapsLock: true,
+  Tab: true,
+  Control: true,
+  Enter: true,
+};
+
+const SPECIAL_CHECK_KEYDOWN = {
+  Backspace: true,
+  Delete: true,
+};
+
 function getc(lang) {
   console.log(lang);
-  selectedlang= lang;
+  selectedlang = lang;
   renderNewQuote(lang);
 }
 
@@ -81,18 +95,6 @@ function startTimer() {
     }, 1000);
   }
 }
-//     } else {
-//       // Practice Test: Count-up timer
-//       if (!timerInterval) {
-//         totalSeconds = 0; // Reset counter for count-up
-//         timerInterval = setInterval(() => {
-//           totalSeconds++;
-//           document.getElementById("countdown").textContent =
-//             formatTime(totalSeconds);
-//         }, 1000);
-//       }
-//     }
-//   }
 
 function stopTimer() {
   clearInterval(timerInterval);
@@ -109,117 +111,25 @@ function formatTime(seconds) {
     .join(":");
 }
 
-// main code FOR ENGLISH start here
-UserInput.addEventListener("input", function (event) {
-  startTimer();
-  // console.log((UserInput.value).length);
-  // to count keystorke
-
-  if (event.inputType !== "deleteContentBackward") {
-    // Increment keystroke count for every input event
-    key_stroke_count += 1;
-    keyStrokeSpan.textContent = key_stroke_count;
-  }
-
-  // For Engkish language
-  // if (type_language === "english")
-  if (selectedlang === "English") {
-    // Get the current user value
-    const currentValue = UserInput.value;
-
-    // Check if a space was added or removed
-    if (lastValue && currentValue.length > lastValue.length) {
-      if (currentValue[currentValue.length - 1] === " ") {
-        typedWordCount += 1;
-      }
-    } else if (lastValue && currentValue.length < lastValue.length) {
-      if (lastValue[lastValue.length - 1] === " ") {
-        if (typedWordCount > 0) {
-          typedWordCount -= 1;
-        } else {
-          typedWordCount = 0;
-        }
-      }
+function findLastSpaceIndex(inputString) {
+  let currentIndex = inputString.length - 1;
+  while (currentIndex >= 0) {
+    if (inputString.charAt(currentIndex) === " ") {
+      return currentIndex;
     }
-
-    // to count ramining word
-    remainingWords = total_words - typedWordCount;
-    // console.log("hogj",remainingWords)
-    pendingWordSpan.innerText = remainingWords;
-
-    // Update last value for the next input event
-    lastValue = currentValue;
-
-    // Update the word count display
-    typedWordCountSpan.textContent = typedWordCount;
-
-    return;
+    currentIndex -= 1;
   }
+  return -1;
+}
 
-  //******/ For Marathi Language***************
-  else {
-    const text = UserInput.value;
-
-    if (event.inputType == "deleteContentBackward") {
-      // To count backspace
-      back_space_count = back_space_count + 1;
-      backspaceSpan.textContent = back_space_count;
-      // key_stroke_count--;
-      key_stroke_count = Math.max(0, key_stroke_count - 2);
-      keyStrokeSpan.textContent = key_stroke_count;
-      console.log(key_stroke_count);
-
-      const lastCharacterIndex = EnglishTextReal.length - 1;
-
-      // While deleting if space is removed
-      if (EnglishTextReal.charAt(lastCharacterIndex) === " ") {
-        spaceIndices.pop();
-      }
-      EnglishTextReal = EnglishTextReal.slice(0, lastCharacterIndex);
-    } else {
-      EnglishTextReal += text.substring(text.length - 1);
-    }
-
-    const lastIndexOfSpaceInMarathi =
-      spaceIndices[spaceIndices.length - 1] || 0;
-
-    const previousMarathiValue = text.slice(0, lastIndexOfSpaceInMarathi) || "";
-    const englishWordToBeTranslated = EnglishTextReal.slice(
-      lastIndexOfSpaceInMarathi
-    );
-
-    // ṆEW function updated
-    const translatedMarathiWord = convertToMarathiUpdated(englishWordToBeTranslated);
-    const finalUpdatedValue = `${previousMarathiValue}${translatedMarathiWord}`;
-
-    if (EnglishTextReal.length - 1 > lastIndexOfSpaceInMarathi) {
-      typedWordCount = spaceIndices.length + 1;
-    } else if (spaceIndices.length) {
-      typedWordCount = spaceIndices.length;
-    } else if (finalUpdatedValue.length) {
-      typedWordCount = 1;
-    } else {
-      typedWordCount = 0;
-    }
-
-    UserInput.value = finalUpdatedValue;
-
-    // Update the word count display
-    typedWordCountSpan.textContent = typedWordCount;
-
-    // to count ramining word
-    remainingWords = total_words - typedWordCount;
-    // console.log("hogj",remainingWords)
-    pendingWordSpan.innerText = remainingWords;
-  }
-});
-
-// TO disabale more than one space
-UserInput.addEventListener("keydown", function (event) {
-  if (event.key === " " && UserInput.value.slice(-1) === " ") {
+function handleEnglishKeyDown(event) {
+  if (
+    event.key === " " &&
+    EnglishTextReal.slice(EnglishTextReal.length - 1) === " "
+  ) {
     event.preventDefault();
   } else if (event.key === " ") {
-    spaceIndices.push(UserInput.value.length);
+    spaceIndices.push(EnglishTextReal.length);
   }
 
   // Decrement keystroke count for backspace key
@@ -239,7 +149,144 @@ UserInput.addEventListener("keydown", function (event) {
     keyStrokeSpan.textContent = key_stroke_count;
     backspaceSpan.textContent = back_space_count;
   }
-});
+}
+
+function handleMarathiKeyDown(event) {
+  let currentUserInputValue = UserInput.value;
+  const isSpaceKey = event.key === " ";
+  const isEmptyValue = !currentUserInputValue.length;
+  const isFirstSpace = isSpaceKey && isEmptyValue;
+  const isLastLetterIsSpace =
+    currentUserInputValue.charAt(currentUserInputValue.length - 1) === " ";
+
+  const isDoubleSpace = isSpaceKey && !isEmptyValue && isLastLetterIsSpace;
+
+  let currentCursorPosition = UserInput.selectionStart || 0;
+
+  if (isFirstSpace || isDoubleSpace) {
+    console.log("space failed");
+    event.preventDefault();
+    return;
+  }
+
+  const { key } = event;
+  let updatedKeyStr = key;
+
+  if (SKIP_CHECK_KEYDOWN[key]) {
+    event.preventDefault();
+    return;
+  }
+
+  // Need to add code for backspace and delete and enter
+  if (SPECIAL_CHECK_KEYDOWN[key]) {
+    key_stroke_count -= 1;
+    updatedKeyStr = "";
+    // Increment back space only if there is previous value present
+    if (EnglishTextReal.length) {
+      back_space_count += 1;
+    }
+
+    // Ensure keystroke count is never negative
+    if (key_stroke_count < 0) {
+      key_stroke_count = 0;
+    }
+
+    if (isLastLetterIsSpace && typedWordCount > 0) {
+      typedWordCount -= 1;
+    }
+
+    EnglishTextReal = EnglishTextReal.slice(0, EnglishTextReal.length - 1);
+    currentUserInputValue = currentUserInputValue.slice(
+      0,
+      currentUserInputValue.length - 1
+    );
+
+    if (currentCursorPosition > 0) {
+      currentCursorPosition -= 1;
+    } else {
+      currentCursorPosition = 0;
+    }
+
+    console.log("updare key stroke", key_stroke_count, back_space_count);
+    // Update the keystroke count display
+    keyStrokeSpan.textContent = key_stroke_count;
+    backspaceSpan.textContent = back_space_count;
+  }
+
+  // if key entered which is does not include mapping return
+  // we handle single single letter
+  if (updatedKeyStr.length > 1) {
+    event.preventDefault();
+    return;
+  } else if (!SPECIAL_CHECK_KEYDOWN[key]) {
+    // update keystrokes
+    key_stroke_count += 1;
+    keyStrokeSpan.textContent = key_stroke_count;
+  }
+
+  if (isSpaceKey) {
+    const updatedValue = currentUserInputValue + " ";
+    UserInput.value = updatedValue;
+    UserInput.selectionStart = currentCursorPosition + 1;
+    EnglishTextReal = EnglishTextReal + " ";
+    typedWordCount += 1;
+
+    // to count ramining word
+    remainingWords = total_words - typedWordCount;
+    // console.log("hogj",remainingWords)
+    pendingWordSpan.innerText = remainingWords;
+
+    // Update the word count display
+    typedWordCountSpan.textContent = typedWordCount;
+
+    event.preventDefault();
+    return;
+  }
+
+  console.log("------------");
+  const findLastSpaceIndexInMarathi = findLastSpaceIndex(currentUserInputValue);
+  console.log("------------");
+  const findLastSpaceIndexInEnglish = findLastSpaceIndex(EnglishTextReal);
+  console.log("------------");
+
+  console.log({ findLastSpaceIndexInMarathi, findLastSpaceIndexInEnglish });
+
+  let previousTranslatedValue = "";
+
+  const wordToBeTranslated =
+    EnglishTextReal.substring(findLastSpaceIndexInEnglish + 1) + updatedKeyStr;
+
+  EnglishTextReal = EnglishTextReal + updatedKeyStr;
+
+  const translatedWord = convertToMarathiUpdated(wordToBeTranslated);
+
+  let updatedValue = translatedWord;
+
+  if (findLastSpaceIndexInMarathi > 0) {
+    previousTranslatedValue = currentUserInputValue.substring(
+      0,
+      findLastSpaceIndexInMarathi + 1
+    );
+    updatedValue = previousTranslatedValue + translatedWord;
+  } else {
+    updatedValue = translatedWord;
+  }
+
+  console.log({ typedWordCount });
+
+  UserInput.value = updatedValue;
+  UserInput.selectionStart = updatedValue.length;
+
+  // to count ramining word
+  remainingWords = total_words - typedWordCount;
+  // console.log("hogj",remainingWords)
+  pendingWordSpan.innerText = remainingWords;
+
+  // Update the word count display
+  typedWordCountSpan.textContent = typedWordCount;
+
+  event.preventDefault();
+}
 
 function compareEnglishPassages() {
   stopTimer();
@@ -278,6 +325,59 @@ function compareEnglishPassages() {
 
   return;
 }
+
+// main code FOR ENGLISH start here
+UserInput.addEventListener("input", function (event) {
+  startTimer();
+  if (selectedlang !== "English") {
+    event.preventDefault();
+    return;
+  }
+
+  if (event.inputType !== "deleteContentBackward") {
+    // Increment keystroke count for every input event
+    key_stroke_count += 1;
+    keyStrokeSpan.textContent = key_stroke_count;
+  }
+
+  // Get the current user value
+  const currentValue = UserInput.value;
+
+  // Check if a space was added or removed
+  if (lastValue && currentValue.length > lastValue.length) {
+    if (currentValue[currentValue.length - 1] === " ") {
+      typedWordCount += 1;
+    }
+  } else if (lastValue && currentValue.length < lastValue.length) {
+    if (lastValue[lastValue.length - 1] === " ") {
+      if (typedWordCount > 0) {
+        typedWordCount -= 1;
+      } else {
+        typedWordCount = 0;
+      }
+    }
+  }
+
+  // to count ramining word
+  remainingWords = total_words - typedWordCount;
+  // console.log("hogj",remainingWords)
+  pendingWordSpan.innerText = remainingWords;
+
+  // Update last value for the next input event
+  lastValue = currentValue;
+
+  // Update the word count display
+  typedWordCountSpan.textContent = typedWordCount;
+});
+
+// new keydown function to check
+UserInput.addEventListener("keydown", (event) => {
+  if (selectedlang === "English") {
+    handleEnglishKeyDown(event);
+  } else {
+    handleMarathiKeyDown(event);
+  }
+});
 
 // FUNCTION TO RENDER NEW QUOTE to display
 const renderNewQuote = (type_language) => {
